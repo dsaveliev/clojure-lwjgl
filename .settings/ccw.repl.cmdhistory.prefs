@@ -1,2 +1,2 @@
-cmdhistory=[";; Switching to game.core namespace" "(GL11/glGetString (GL11/GL_VERSION))" "(GL11/glGetString (GL_VERSION))" "(GL11/GL_VERSION)" "(GL11/glGetString (GL11/GL_VERSION))" "(+ 2 2)" "(GL11/glGetString GL11/GL_VERSION)" "(if true (println \\"TRUE\\"))" "(if false (println \\"TRUE\\"))"]
+cmdhistory=[";; Switching to game.core namespace" "(GL11/glGetString (GL11/GL_VERSION))" "(GL11/glGetString (GL_VERSION))" "(GL11/GL_VERSION)" "(GL11/glGetString (GL11/GL_VERSION))" "(+ 2 2)" "(GL11/glGetString GL11/GL_VERSION)" "(if true (println \\"TRUE\\"))" "(if false (println \\"TRUE\\"))" "(main)" "(-main)"]
 eclipse.preferences.version=1
