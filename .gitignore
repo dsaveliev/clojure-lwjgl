@@ -1,2 +1,11 @@
-brickhit-0.1.0-SNAPSHOT-standalone.jar
-brickhit-0.1.0-SNAPSHOT.jar
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+*.swp
